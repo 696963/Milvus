@@ -1,0 +1,7 @@
+// config/database.js
+module.exports = {{
+    host: 'localhost',
+    port: 5432,
+    username: 'lxnji5givc9v',
+    password: 'lxnji5givc9v'
+}};
